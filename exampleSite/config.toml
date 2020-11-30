@@ -37,10 +37,10 @@ bgImage = "images/banner/banner-bg.svg"
 image = "images/banner/illustration.svg"
 title = "Hi, I'm John Smith Doe. <br> I help people make the  worlds best software"
 [params.cta]
-description = "Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus."
+description = "Um projeto feito por dois universitários no qual investiga a ciência por trás da pandemia de The Last of US."
 enable = true
 image = "images/hugo-muscot.svg"
-title = "Get the best hugo templates"
+title = "Projeto The Last of Us"
 [params.cta.button]
 enable = true
 label = "Visit Here"
