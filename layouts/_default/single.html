@@ -7,7 +7,7 @@
         <h2>{{ .Title | markdownify }}</h2>
         <div class="mb-3 post-meta">
          Por <a href="{{ `author/` | relLangURL }}{{ .Params.Author | urlize | lower }}">{{ .Params.Author | title }}</a>, em
-          {{ .PublishDate.Format "2 de Jan, 2016" }}, {{ range .Params.Categories }} • Marcado em:
+          {{ .PublishDate.Format "2 de Jan" }} {{ range .Params.Categories }} • Marcado em:
           <a href="{{ `categories/` | relLangURL }}{{ . | urlize | lower }}">{{ . | title }}</a>
           {{ end }}
         </div>
