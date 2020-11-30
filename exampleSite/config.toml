@@ -43,7 +43,7 @@ image = "images/hugo-muscot.svg"
 title = "Projeto The Last of Us"
 [params.cta.button]
 enable = true
-label = "Visit Here"
+label = "Saiba mais"
 link = "https://gethugothemes.com/shop/"
 [[params.plugins.css]]
 link = "plugins/bootstrap/bootstrap.min.css"
