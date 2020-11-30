@@ -35,7 +35,7 @@ logo = "images/logo.svg"
 [params.banner]
 bgImage = "images/banner/banner-bg.svg"
 image = "/images/banner/illustration.svg"
-title = "Olá, me chamo <b>Murilo</b>. <br> Eu ajudo as pessoas a terem o melhor design"
+title = "Olá, me chamo <b>Murilo</b><br> Escrevo sobre minha rotina como Designer Gráfico/UX"
 [params.cta]
 description = "Um projeto feito por dois estudantes universitários no qual investiga a ciência por trás da pandemia da série \"The Last of Us\"."
 enable = true
