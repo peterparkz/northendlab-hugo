@@ -6,21 +6,21 @@ summaryLength = "5"
 theme = "northendlab-hugo"
 title = "Murilo Roque"
 [[menu.footer]]
-URL = "contact"
-name = "Contact"
-weight = 1
+URL = "tools"
+name = "Portfólio"
+weight = 2
 [[menu.footer]]
-URL = "tools"
-name = "tools"
-weight = 2
-[[menu.main]]
 URL = "contact"
-name = "Contact"
+name = "Contato"
 weight = 1
 [[menu.main]]
 URL = "tools"
-name = "tools"
+name = "Portfólio"
 weight = 2
+[[menu.main]]
+URL = "contact"
+name = "Contato"
+weight = 1
 [outputs]
 home = ["HTML", "AMP", "RSS", "JSON"]
 [params]
