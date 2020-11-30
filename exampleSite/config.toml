@@ -1,6 +1,6 @@
 baseURL = "https://examplesite.com/"
 disqusShortname = ""
-languageCode = "en-us"
+languageCode = "pt-BR"
 paginate = "5"
 summaryLength = "5"
 theme = "northendlab-hugo"
