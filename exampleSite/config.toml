@@ -34,7 +34,7 @@ home = "Home"
 logo = "images/logo.svg"
 [params.banner]
 bgImage = "images/banner/banner-bg.svg"
-image = "images/banner/illustration.svg"
+image = "images/undraw_designer_by46.svg"
 title = "Olá, me chamo <b>Murilo</b>. <br> Eu ajudo as pessoas a terem o melhor design"
 [params.cta]
 description = "Um projeto feito por dois estudantes universitários no qual investiga a ciência por trás da pandemia da série \"The Last of Us\"."
