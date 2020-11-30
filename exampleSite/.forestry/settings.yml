@@ -13,7 +13,7 @@ sections:
   - post
 - type: directory
   path: exampleSite/data
-  label: Tools
+  label: Portfólio
   create: documents
   match: "**/*"
   new_doc_ext: yml
@@ -21,14 +21,14 @@ sections:
   - tools
 - type: directory
   path: exampleSite/content/author
-  label: Autor
+  label: Autores
   create: documents
   match: "**/*"
   templates:
   - author
 - type: document
   path: exampleSite/documentation
-  label: Documentation
+  label: Documentação
 - type: directory
   path: exampleSite/content/contact
   label: Contato
@@ -36,7 +36,7 @@ sections:
   match: "**/*"
 - type: directory
   path: exampleSite
-  label: Configuration
+  label: Configuração
   create: all
   match: "*.toml"
   new_doc_ext: toml
