@@ -2,7 +2,7 @@ baseURL = "https://examplesite.com/"
 disqusShortname = ""
 languageCode = "en-us"
 paginate = "5"
-summaryLength = "10"
+summaryLength = "5"
 theme = "northendlab-hugo"
 title = "Murilo Roque"
 [[menu.footer]]
