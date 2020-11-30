@@ -4,4 +4,4 @@ description: this is meta description
 image: images/contact.svg
 
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labor.
+Para entrar em contato comigo é muito fácil, basta preencher o formulário abaixo que irei responder o mais rápido possível.
