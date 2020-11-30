@@ -6,21 +6,21 @@ summaryLength = "5"
 theme = "northendlab-hugo"
 title = "Murilo Roque"
 [[menu.footer]]
-URL = "tools"
-name = "Portfólio"
-weight = 2
+URL = "contact"
+name = "Contact"
+weight = 1
 [[menu.footer]]
-URL = "contact"
-name = "Contato"
-weight = 1
-[[menu.main]]
 URL = "tools"
-name = "Portfólio"
+name = "tools"
 weight = 2
 [[menu.main]]
 URL = "contact"
-name = "Contato"
+name = "Contact"
 weight = 1
+[[menu.main]]
+URL = "tools"
+name = "tools"
+weight = 2
 [outputs]
 home = ["HTML", "AMP", "RSS", "JSON"]
 [params]
@@ -35,7 +35,7 @@ logo = "images/logo.svg"
 [params.banner]
 bgImage = "images/banner/banner-bg.svg"
 image = "images/banner/illustration.svg"
-title = "Olá, me chamo Murilo. <br> Eu ajudo as pessoas a terem o melhor design"
+title = "Olá, me chamo <b>Murilo</b>. <br> Eu ajudo as pessoas a terem o melhor design"
 [params.cta]
 description = "Um projeto feito por dois estudantes universitários no qual investiga a ciência por trás da pandemia da série \"The Last of Us\"."
 enable = true
