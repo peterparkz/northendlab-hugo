@@ -37,10 +37,10 @@ bgImage = "images/banner/banner-bg.svg"
 image = "/images/banner/illustration.svg"
 title = "Olá, me chamo <b>Murilo</b><br> Aqui falo um pouco de Design Gráfico e UX"
 [params.cta]
-description = "Um projeto feito por dois estudantes universitários no qual investiga a ciência por trás da pandemia da série \"The Last of Us\"."
+description = "Conheça as minhas coleções com dicas não só de Design, mas também de livros, produtos e mais."
 enable = true
 image = "images/hugo-muscot.svg"
-title = "Projeto The Last of Us"
+title = "Coleções"
 [params.cta.button]
 enable = true
 label = "Saiba mais"
