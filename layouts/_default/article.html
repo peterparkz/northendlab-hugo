@@ -2,7 +2,7 @@
   <h2 class="h4"><a class="post-title" href="{{ .Permalink }}">{{ .Title | markdownify }}</a></h2>
   <div class="mb-3 post-meta">
     Por <a href="{{ `author/` | relLangURL }}{{ .Params.Author | urlize | lower }}">{{ .Params.Author | title }}</a>, em
-    {{ .PublishDate.Format "2 de Jan, 2006" }}, {{ range .Params.Categories }}
+    {{ .PublishDate.Format "2 de Jan, 2006" }}, marcado em: {{ range .Params.Categories }}
     <a href="{{ `categories/` | relLangURL }}{{ . | urlize | lower }}">{{ . | title }}</a>
     {{ end }}
   </div>
