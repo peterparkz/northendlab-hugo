@@ -76,6 +76,3 @@ link = "/"
 [[params.social]]
 icon = "ti-linkedin"
 link = "#"
-[[params.social]]
-icon = "ti-shopping-cart"
-link = "/"
