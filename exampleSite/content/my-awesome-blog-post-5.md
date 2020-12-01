@@ -1,10 +1,10 @@
 +++
 author = "Murilo"
-categories = ["Hugo"]
+categories = ["Teorias"]
 date = 2019-11-30T19:00:00Z
 description = "This is meta description"
 image = "/images/post/post-3.jpg"
-title = "Esse é meu primeiro post"
+title = "Você conhece a teoria das cores?"
 type = "post"
 
 +++
