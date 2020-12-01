@@ -25,7 +25,7 @@ weight = 1
 home = ["HTML", "AMP", "RSS", "JSON"]
 [params]
 author = "Themefisher"
-contact_form_action = "<!-- See more examples of how to use Formbutton at formspree.io/formbutton/docs -->   <script src=\"https://formspree.io/js/formbutton-v1.min.js\" defer></script>   <script>     window.formbutton=window.formbutton||function(){(formbutton.q=formbutton.q||[]).push(arguments)};     formbutton(\"create\", {action: \"https://formspree.io/f/xayldlpl\"})   </script>"
+contact_form_action = "https://formspree.io/murilopesr@email.com/"
 copyright = "&copy; 2020 [Murilo Roque](https://gethugothemes.com) Todos os Direitos Reservados"
 description = "This is meta description"
 google_analitycs_id = "G-L76C0NFN88"
