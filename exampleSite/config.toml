@@ -25,7 +25,7 @@ weight = 1
 home = ["HTML", "AMP", "RSS", "JSON"]
 [params]
 author = "Themefisher"
-contact_form_action = "<form action=\"https://formspree.io/f/xayldlpl\" method=\"POST\">\n  <input type=\"text\" name=\"name\">\n  <input type=\"email\" name=\"_replyto\">\n  <input type=\"submit\" value=\"Send\">\n</form>"
+contact_form_action = "<form action=\"https://formspree.io/f/xayldlpl\" method=\"POST\">"
 copyright = "&copy; 2020 [Murilo Roque](https://gethugothemes.com) Todos os Direitos Reservados"
 description = "This is meta description"
 google_analitycs_id = "G-L76C0NFN88"
